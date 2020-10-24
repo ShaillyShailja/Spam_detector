@@ -18,3 +18,6 @@ finally. We then perform prediction by giving a set of input to the model throug
 input data.
 
 
+References:
+https://towardsdatascience.com/nlp-spam-detection-in-sms-text-data-using-deep-learning-b8632db85cc8
+https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
