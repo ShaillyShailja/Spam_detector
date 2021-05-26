@@ -19,9 +19,3 @@ The Bi-LSTM Model had the best accuracy.
 However, the dense model gives minimum loss and fairly high accuracy. Hence, the Dense model is selected
 finally. We then perform prediction by giving a set of input to the model through a function that preprocesses the
 input data.
-
-
-References:
-
-https://towardsdatascience.com/nlp-spam-detection-in-sms-text-data-using-deep-learning-b8632db85cc8
-https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
